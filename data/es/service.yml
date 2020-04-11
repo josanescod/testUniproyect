@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Nuestros servicios
+  service_item :
+    # service item loop
+    - name : Diseño web a medida
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Adaptamos tus ideas a tu web para hacer de ella un  proyecto único, utilizando las tecnologías que mejor se adaptan en cada momento.
+      
+    # service item loop
+    - name : Tiendas online
+      icon : ti-wordpress # themify icon pack : https://themify.me/themify-icons
+      content : Nos enfocamos en utilizar CMS tan populares como Wordpress o Prestashop para crear mejores tiendas online que te permitan alcanzar tus metas.
+      
+    # service item loop
+    - name : Posicionamiento SEO
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Diseñamos estrategias para aumentar el tráfico de las webs para que alcancen un mejor posiconamiento en los buscadores de internet.
+      
+    # service item loop
+    - name : Márketing digital
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Trabajamos el márketing digital a través de aspectos como son el branding digital, la publicidad online o la monetización de sitios webs.
+      
+    # service item loop
+    - name : Desarrollo de Apps
+      icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      content : Desarrollamos proyectos webs y móviles que integran lo mejor de ambos sistemas para que tu proyecto esté siempre a la última. 
+      
+    # service item loop
+    - name : ERP y CRM
+      icon : ti-server # themify icon pack : https://themify.me/themify-icons
+      content : Utilizamos herramientas Open Source para poder ofrecerte soluciones a medida de lo que necesitas a un precio totalmente accesible.

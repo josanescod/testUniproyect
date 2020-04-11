@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Els nostres serveis
+  service_item :
+    # service item loop
+    - name : Disseny web a mida
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Adaptem les teves idees a la teva web per crear projectes únics, utilitzant les tecnologies que millor s'adapten a cada moment.
+      
+    # service item loop
+    - name : Botigues en línia
+      icon : ti-wordpress # themify icon pack : https://themify.me/themify-icons
+      content : Ens enfoquem en utilitzar CMS tan populars com Wordpress o Prestashop per crear millors botigues en línia que et permetin assolir les teves metes.
+      
+    # service item loop
+    - name : Posicionament SEO
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Dissenyem estratègies per augmentar el trànsit de les webs perquè assoleixin un millor posiconamient als cercadors d'internet.
+      
+    # service item loop
+    - name : Màrqueting digital
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Treballem el màrqueting digital a través d'aspectes com el branding digital, la publicitat en línia o la monetització de llocs.
+      
+    # service item loop
+    - name : Desenvolupament Apps
+      icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      content : Desenvolupem projectes webs i mòbils que integren el millor d'ambdós sistemes perquè el teu projecte estigui sempre a l'última.
+      
+    # service item loop
+    - name : ERP y CRM
+      icon : ti-server # themify icon pack : https://themify.me/themify-icons
+      content : Utilitzem eines Open Source per a poder oferir solucions a mida del que necessita el teu projecte a un preu totalment accessible.

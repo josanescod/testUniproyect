@@ -1,0 +1,20 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contáctanos
+  subtitle : Detalles de Contacto
+  content : Mándanos un mensaje a través de nuestro formulario y nos pondremos en contacto contigo lo antes posible.
+  form_action: "#" #contact form works with https://formspree.io
+
+  contact_details :
+#   - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+#      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+     
+#    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+#      info : "Phone: +34 641 86 74 79"
+      
+#    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+#      info : "Fax: +880-31-000-000"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: uniproyect@protonmail.com"

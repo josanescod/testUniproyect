@@ -1,0 +1,27 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Nuestras habilidades
+  subtitle : Las habilidades de las que disponemos son totalmente complementarias.
+  content : Nos centramos en tecnologías y maneras de pensar muy diferentes dentro del desarrollo web. Esto nos permite encontrar soluciones diferentes y únicas a problemas complejos.
+
+
+  skill_item :
+    # skill item loop
+    - name :  Modelo de negocios
+      percent : 90%
+      
+    # skill item loop
+    - name :  Análisis y estructura de datos
+      percent : 75%
+      
+    # skill item loop
+    - name :  Diseño UX/UI
+      percent : 90%
+      
+    - name :  Desarrollo IOS
+      percent : 70%
+      
+    # skill item loop
+    - name :  Desarrollo Android
+      percent : 95%

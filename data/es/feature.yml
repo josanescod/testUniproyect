@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/typewriter.jpg
+  image_webp : images/about/typewriter.webp
+  title : Nos enfocamos en lo que en realidad importa
+  content : "Trabajamos sobre cuatro puntos claves para crear un sitio web profesional y optimizado para estar bien posicionado en Google y otros buscadores:"
+  feature_item : 
+      # feature item loop
+    - title : Diseño
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Contribuimos a mejorar la marca a través de una estética creativa y atractiva.
+      
+      # feature item loop
+    - title : Usabilidad web
+      icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+      content : Mejoramos que la usabilidad sea intuitiva y orientada a conversiones para que sea más eficaz a los usuarios del sitio web.
+
+      # feature item loop
+    - title : Arquitectura de la información
+      icon : ti-layout-media-overlay # themify icon pack : https://themify.me/themify-icons
+      content : Optimización de la arquitectura web bajo criterios SEO para facilitar el posicionamiento orgánico y atraer tráfico cualificado.
+      
+      # feature item loop
+    - title : Contenido optimizado
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Contenido de la web directo, conciso y de fácil entendimiento para los buscadores. Con "llamadas a la acción" para facilitar al usuario su navegación.

@@ -1,0 +1,27 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Les nostres habilitats
+  subtitle : Les habilitats de les que disposem són totalment complementàries.
+  content : Ens centrem en tecnologies i maneres de pensar molt diferents dins d'el desenvolupament web. Això ens permet trobar solucions diferents i úniques a problemes complexos.
+
+
+  skill_item :
+    # skill item loop
+    - name :  Model de negocis
+      percent : 90%
+      
+    # skill item loop
+    - name :  Anàlisi i estructura de dades
+      percent : 75%
+      
+    # skill item loop
+    - name :  Disseny UX / UI
+      percent : 90%
+      
+    - name :  Desenvolupament IOS
+      percent : 70%
+      
+    # skill item loop
+    - name :  Desenvolupament Android
+      percent : 95%

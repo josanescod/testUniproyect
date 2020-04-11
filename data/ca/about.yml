@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Sobre nosaltres
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : Disseny i flexibilitat
+    content : Creiem que la millor manera d'ajudar als nostres clients és comprendre les seves necessitats i donar-li solucions úniques als problemes que se'ns plantegen.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Lideratge
+    content : La capacitat de gestionar projectes ens permet obtenir major rendiment escurçant els terminis de lliurament als que ens comprometem.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Innovació i creativitat
+    content : Una de les claus principals que tenim per a ser únics és la nostra capacitat d'innovar i crear productes nous y especialitzats cada dia.
