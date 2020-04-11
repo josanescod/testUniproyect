@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://uniproyect.com"
+baseURL = "https://josanescod.github.io/testUniproyect/"
 title = "UniProyect"
 theme = "meghna-hugo"
 #github-page
